@@ -5,7 +5,6 @@
 
 
 #libraries
-pip install U pip
 pip install streamlit
 pip install networkx
 
