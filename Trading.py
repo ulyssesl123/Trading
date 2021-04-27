@@ -5,9 +5,6 @@
 
 
 #libraries
-pip install streamlit
-pip install networkx
-
 import pandas as pd
 import numpy as np
 import requests
