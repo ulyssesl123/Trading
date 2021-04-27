@@ -5,12 +5,11 @@
 
 
 #libraries
-!pip install yfinance
 import pandas as pd
 import numpy as np
 import requests
 import pandas as pd
-!import yfinance as yf
+import yfinance as yf
 import datetime
 import time
 import requests
